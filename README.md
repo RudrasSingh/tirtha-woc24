@@ -5,5 +5,5 @@ This repository stores the project documentation for the [Winter of Code](https:
 ### Selected Projects [WIP]
 | Project | Student | Mentor | Status |
 |---------|--------|---------|--------|
-| [Exploring Alternatives to Google Sign-In](https://github.com/smlab-niser/tirtha-public/issues/34) | [Atul Kumar Singh](https://github.com/RudrasSingh) | [JeS24](https://github.com/JeS24/) | ⚙️ |
+| [Exploring Alternatives to Google Sign-In](https://github.com/smlab-niser/tirtha-public/issues/34) | [Atul Kumar Singh](https://github.com/RudrasSingh) | [JeS24](https://github.com/JeS24/) | ✅ |
 | [Optimizing JS on phones](https://github.com/smlab-niser/tirtha-public/issues/8) | [Avni Uplabdhee](https://github.com/KaizenGirl1111) | [JeS24](https://github.com/JeS24/) | ⚙️ |
